@@ -2,6 +2,6 @@
 
 - 🌱 I’m currently learning Data Analytics
 - 🎨 I'm interested in Data Visualization
-- 📫 How to reach me: Via my Linkedin or by e-mail at Thaynecampbell@gmail.com
+- 📫 How to reach me: Via my [Linkedin](https://www.linkedin.com/in/thayne-campbell/) or by e-mail at Thaynecampbell@gmail.com
 - ⚡ Fun fact: I have a Bachelor of Music Degree in Bass Trombone 🎵
 -->
